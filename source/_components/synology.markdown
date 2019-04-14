@@ -19,6 +19,7 @@ The `synology` camera platform allows you to watch the live streams of your [Syn
 
 <p class='note'>
 Synology has disabled the livestreaming API and the component is currently broken if you are using Surveillance Station version 8.2.3-5828.
+ There is an upsupport preview fix available. (8.2.3-5829) - Instructions can be found [here](https://www.vcloudinfo.com/2019/04/how-to-manually-upgrade-your-synology-surveillance-system-firmware.html) for updating.
 </p>
 
 ## {% linkable_title Configuration %}
